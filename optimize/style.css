@@ -1044,12 +1044,16 @@ h4 {
 }
 
 
-.text-contrast-color-lt{ color:#c27956;}
+.text-contrast-color-lt{ 
+    color:#000000;
+}
 
 
 #text--image--travaillons{
     font-size: 1.6em;
 }
+
+/**
 
 .visibility--more{
     padding: 12px;
@@ -1060,7 +1064,7 @@ h4 {
     color:#c27956;
 }
 
-
+**/
 
 
 
