@@ -1045,7 +1045,7 @@ h4 {
 
 
 .text-contrast-color-lt{ 
-    color:#000000;
+    color:#000000 !important;
 }
 
 
@@ -1074,7 +1074,6 @@ h4 {
 
  
 .text-contrast-color{
-
     color: #000000;
 }
 
