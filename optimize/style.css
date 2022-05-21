@@ -1103,3 +1103,13 @@ h4 {
 #owner--temoignagne{
     color: #575757!important;
 }
+
+input:focus, a:focus {
+    outline: 2px solid blue;
+  }
+
+
+
+  input:focus-visible, a:focus-visible {
+    outline: 2px solid blue;
+  } 
