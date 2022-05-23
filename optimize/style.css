@@ -1104,12 +1104,7 @@ h4 {
     color: #575757!important;
 }
 
+
 input:focus, a:focus {
-    outline: 2px solid blue;
+    border: 2px solid red;
   }
-
-
-
-  input:focus-visible, a:focus-visible {
-    outline: 2px solid blue;
-  } 
